@@ -12,9 +12,9 @@ Visit My Website: https://sanjairajeshkumar.github.io/greenden-tailwind/
 
 🛠️ Technologies Used
 
-HTML5
-Tailwind CSS
-Javascript
+ HTML5
+ Tailwind CSS
+ Javascript
 
 ✨ Features
 
