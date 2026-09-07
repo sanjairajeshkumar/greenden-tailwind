@@ -14,6 +14,7 @@ Visit My Website: https://sanjairajeshkumar.github.io/greenden-tailwind/
 
 HTML5
 Tailwind CSS
+Javascript
 
 ✨ Features
 
